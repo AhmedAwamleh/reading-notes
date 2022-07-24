@@ -13,13 +13,10 @@
 ## ***Code 301 - Intermediate Software Development***
 
 It is nicely demonstrated in the Table of Contents of the Markdown Cheatsheet.
-
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 - note-1
 - note-2
