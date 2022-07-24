@@ -12,12 +12,9 @@
 - note-3
 ## ***Code 301 - Intermediate Software Development***
 
-It is nicely demonstrated in the Table of Contents of the Markdown Cheatsheet.
-| First Header  | Second Header |
+| Web Site  | Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| Day01  | [React-intro](https://github.com/AhmedAwamleh/reading-notes/blob/main/day01Notes.md)  |
 - note-1
 - note-2
 - note-3
