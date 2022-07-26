@@ -5,8 +5,8 @@
 | Web Site  | Description |
 | ------------- | ------------- |
 | Day01  | [React-intro](https://github.com/AhmedAwamleh/reading-notes/blob/main/day01.md)  |
-| Day02  | [https://github.com/AhmedAwamleh/reading-notes/blob/main/day02.md)  |
-| Day03  | [https://github.com/AhmedAwamleh/reading-notes/blob/main/day03.md)  |
+| Day02  | [props-intro](https://github.com/AhmedAwamleh/reading-notes/blob/main/day02.md)  |
+| Day03  | [ Passing Functions as Props](https://github.com/AhmedAwamleh/reading-notes/blob/main/day03.md)  |
 
 ## ***Code 301 - Intermediate Software Development***
 - note-1 [React-intro](https://github.com/AhmedAwamleh/reading-notes/blob/main/day01.md)
