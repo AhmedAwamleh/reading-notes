@@ -9,8 +9,8 @@
 | Day03  | [ Passing Functions as Props](https://github.com/AhmedAwamleh/reading-notes/blob/main/day03.md)  |
 | Day04  | [  React and Forms](https://github.com/AhmedAwamleh/reading-notes/blob/main/day04.md)  |
 | Day05  | [  Putting it all together](https://github.com/AhmedAwamleh/reading-notes/blob/main/day05.md)  |
-| Day06  | [  node.js](https://github.com/AhmedAwamleh/reading-notes/blob/main/day06.md
-)  |
+| Day06  | [  node.js](https://github.com/AhmedAwamleh/reading-notes/blob/main/day06.md)  |
+
 
 
 
